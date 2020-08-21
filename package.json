@@ -5,7 +5,7 @@
     "main": "index.js",
     "homepage": "https://Mehdi-Adel.github.io/Tincat",
     "scripts": {
-        "deploy": "gh-pages -d tincat"
+        "deploy": "gh-pages -d dist"
     },
     "author": "Mehdi Adel",
     "license": "ISC",
